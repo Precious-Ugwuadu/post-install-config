@@ -37,8 +37,6 @@ This tutorial outlines the post-install configuration of the open-source help de
   
 ![image](https://github.com/user-attachments/assets/1efe0cfc-995f-45d7-83cb-25ae2f0daf67) 
 
-![image](https://github.com/user-attachments/assets/1efe0cfc-995f-45d7-83cb-25ae2f0daf67) 
-
 ![image](https://github.com/user-attachments/assets/e4b8043e-2685-42ee-a8ca-ad6b636bb228)
 
 I started by creating user roles in osTicket, which are used to set permissions for agents. These roles determine what actions agents are allowed to perform, such as viewing tickets, replying to customers, or managing system settings. By assigning specific roles, I was able to control access levels across the help desk. For instance, I created a role called "Supreme Admin", which gives full access to all features and settings in the system, ensuring complete administrative control.
